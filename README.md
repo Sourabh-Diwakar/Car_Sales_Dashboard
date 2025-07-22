@@ -36,7 +36,7 @@ The **Car Sales Dashboard** includes the following key visualizations and insigh
 ---
 
 
-## 📌 Tools & Technologies
+## Tools & Technologies
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
@@ -46,17 +46,17 @@ The **Car Sales Dashboard** includes the following key visualizations and insigh
 
 ---
 
-## 🧑‍💼 Author
+## Author
 
 **Sourabh**  
-💼 Data Analyst | Power BI Expert  
-📧 [your-sourabh1999516@gamil.com]  
+Data Analyst | Power BI Expert  
+sourabh1999516@gamil.com
 📍 Delhi, India 
 
 ---
 
-## ⭐️ Feedback & Contributions
+## Feedback & Contributions
 
 Feel free to fork, use, or contribute improvements to this dashboard.  
-If you find it useful, don't forget to ⭐️ this repository!
+If you find it useful, don't forget to  this repository!
 
